@@ -9,7 +9,7 @@ import GameScreen from './screens/GameScreen';
 import GameOverScreen from './screens/GameOverScreen';
 import Colors from './constants/colors';
 
-//  Merging branches test
+//  Merging successfull
 
 export default function App() {
   const [userNumber, setUserNumber] = useState();
