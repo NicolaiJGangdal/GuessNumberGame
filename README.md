@@ -37,30 +37,36 @@ Above we see the homescreen on Android and Iphone.
 
 ### `Select Number`
 
-<div style="display = flex; align = left; padding = 10px">
-<img src="assets/Android2.png" title="Home Page on Android" width="25%" hieght="25%">
+<div align="left">
+<img src="assets/Android2.png" title="Home Page on Android" width="25%" hieght="25% padding-right="10px"">
 <img src="assets/Iphone2.png" title="Home Page on Iphone" width="25%" hieght="25%">
 </div>
 
 Above we see a picked number on Android and Iphone.
 ##
 
-### `Projects`
+### `Playing the Game`
 
-The Projects-page features a list of projects i have done, I'm currently working on <br />
-and some example projects to fill the empty space.
+Here the user is informing the app if the guess is above or belov the inputted number.
 
-<img src="src/Assets/projects.png" title="Project Page">
+<div align="left">
+<img src="assets/Android3.png" title="Home Page on Android" width="25%" hieght="25%">
+<img src="assets/Iphone3.png" title="Home Page on Iphone" width="25%" hieght="25%">
+</div>
 
-All the projects here are clickable and will open a new page showing a preview of the project. <br />
-The preview contains screenshots, information and a clickable GitHub-icon <br />
-that redirects to the corresponding project-repository.
-
+Above we see the game being played on Android and Iphone.
 ##
 
-### `Experience`
 
-The Experience-page features a timeline showing my work and education experiences. <br />
-It goes back to High-School and all the way to where I'm working today.
+### `Select Number`
 
-<img src="src/Assets/experience.png" title="Experience Page">
+The game over screen summarises the number off guesses <br />
+and allows the user to play again. <br />
+
+<div align="center">
+<img src="assets/Android4.png" title="Home Page on Android" width="25%" hieght="25%">
+<img src="assets/Iphone4.png" title="Home Page on Iphone" width="25%" hieght="25%">
+</div>
+
+Above we see the game over screen on Android and Iphone.
+##
