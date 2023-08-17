@@ -5,7 +5,7 @@
 ## Creation of the project
 
 This project was created in VsCode using: <br />
-`npm install -g expo-cli`
+`npm install -g expo-cli` <br />
 `npx create-expo-app GuessNumberGame`
 
 The Apps purpose is to practice coding in React Native. <br />
@@ -27,7 +27,7 @@ This is the Home-page, where the user can select a number. <br />
 If the user is not satisfied with the number they can erase it using the Reset button. <br />
 When the user has put in a number between 1 and 99 they can press Confirm to start playing. <br />
 
-<div style="display = flex; align = left; padding = 100px">
+<div align="left">
 <img src="assets/Android1.png" title="Home Page on Android" width="25%" hieght="25%">
 <img src="assets/Iphone1.png" title="Home Page on Iphone" width="25%" hieght="25%">
 </div>
@@ -38,7 +38,7 @@ Above we see the homescreen on Android and Iphone.
 ### `Select Number`
 
 <div align="left">
-<img src="assets/Android2.png" title="Home Page on Android" width="25%" hieght="25%" padding-right="100px"">
+<img src="assets/Android2.png" title="Home Page on Android" width="25%" hieght="25%" padding="20%">
 <img src="assets/Iphone2.png" title="Home Page on Iphone" width="25%" hieght="25%">
 </div>
 
@@ -49,7 +49,7 @@ Above we see a picked number on Android and Iphone.
 
 Here the user is informing the app if the guess is above or belov the inputted number.
 
-<div align="left" padding-right="50px">
+<div align="left">
 <img src="assets/Android3.png" title="Home Page on Android" width="25%" hieght="25%">
 <img src="assets/Iphone3.png" title="Home Page on Iphone" width="25%" hieght="25%">
 </div>
@@ -63,7 +63,7 @@ Above we see the game being played on Android and Iphone.
 The game over screen summarises the number off guesses <br />
 and allows the user to play again. <br />
 
-<div align="left" padding="10%">
+<div>
 <img src="assets/Android4.png" title="Home Page on Android" width="25%" hieght="25%">
 <img src="assets/Iphone4.png" title="Home Page on Iphone" width="25%" hieght="25%">
 </div>
