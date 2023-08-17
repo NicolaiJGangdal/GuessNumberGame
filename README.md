@@ -27,8 +27,8 @@ TThis is the Home-page, where the user can select a number. <br />
 If the user is not satisfied with the number they can erase it using the Reset button. <br />
 When the user has put in a number between 1 and 99 they can press Confirm to start playing. <br />
 
-<img src="assets/Android1.png" title="Home Page on Android">
-<img src="assets/Iphone1.png" title="Home Page on Iphone">
+<img src="assets/Android1.png" title="Home Page on Android" width="50%" hieght="50%">
+<img src="assets/Iphone1.png" title="Home Page on Iphone" width="50%" hieght="50%">
 
 
 ##
