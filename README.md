@@ -15,7 +15,7 @@ The Apps purpose is to practice coding in React Native. <br />
 **Npx expo start** to run the app.<br />
 **Npx expo start --tunnel** to run the app on real iphone if computer uses VPN.<br />
 
-After running the app i run commands to open the app i simulators:
+After running the app i run commands to open the app i simulators: <br />
 **Open IOS Simulator: I** <br />
 **Open Android simulator: A** <br />
 
