@@ -1,9 +1,9 @@
 {
-  "expoServerPort": null,
-  "packagerPort": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "expoServerNgrokUrl": "https://4y-uhb.anonymous.guessnumbergame.exp.direct",
+  "packagerNgrokUrl": "https://4y-uhb.anonymous.guessnumbergame.exp.direct",
+  "ngrokPid": 6148,
   "packagerPid": null,
   "webpackServerPort": null
 }
